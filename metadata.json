@@ -1,0 +1,11 @@
+{
+  "name": "JARVIS Supercomputer AI Browser Assistant",
+  "description": "Futuristic browser-based AI supercomputer interface powered by Google Gemini, featuring voice-first control, live web research with search grounding, multi-window floating workspace, computer vision hand gestures, persistent memory, custom command workflows, and browser automation bridge.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
